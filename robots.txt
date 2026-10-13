@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.bistro-22.com/sitemap.xml
